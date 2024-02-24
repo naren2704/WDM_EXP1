@@ -102,6 +102,7 @@ rainy,75.0,80.0,false,yes
 
 ### Normalize -> Pre-Processing Technique:
 
+
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
 3) Click on open file.
